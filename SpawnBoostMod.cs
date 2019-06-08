@@ -19,8 +19,8 @@ namespace SpawnBoostMod
         static float multiplier = 5f;
         public override void EditSpawnRate(Player player, ref int spawnRate, ref int maxSpawns)
         {
-            spawnRate = (int)(spawnRate / 6 );
-            maxSpawns = 60;
+            spawnRate = (int)(spawnRate / 30 );
+            maxSpawns = 250;
         }
     }
 }
