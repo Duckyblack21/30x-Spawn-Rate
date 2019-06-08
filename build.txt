@@ -1,4 +1,4 @@
-version = 0.4
+version = 0.5
 author = Cmaner
 displayName = 30x Spawn rate
 homepage = https://forums.terraria.org/index.php?threads/game-enchance-spawn-boost-mod.80237/
