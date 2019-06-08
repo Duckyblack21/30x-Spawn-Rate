@@ -1,4 +1,4 @@
-version = 0.2
+version = 0.3
 author = Cmaner
 displayName = 30x Spawn rate
 homepage =
