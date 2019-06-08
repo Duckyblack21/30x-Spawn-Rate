@@ -1,7 +1,7 @@
 version = 0.3
 author = Cmaner
 displayName = 30x Spawn rate
-homepage =
+homepage = https://forums.terraria.org/index.php?threads/game-enchance-spawn-boost-mod.80237/
 hideCode = true
 hideResources =true
 buildIgnore = *.csproj, obj\*, bin\*, .vs/*includePDB = true
